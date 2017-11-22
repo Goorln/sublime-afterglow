@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "autoprefixer-core": "^5.1.0",
+    "get-stdin": "^4.0.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true
+}

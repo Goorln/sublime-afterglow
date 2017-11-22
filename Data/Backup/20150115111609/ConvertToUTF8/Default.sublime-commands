@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "ConvertToUTF8: Reload with Encoding",
+        "command": "show_encoding_selection"
+    },
+    { "keys": ["ctrl+shift++alt+c"], "command": "convert_to_utf8", "args": {"encoding": "GBK", "stamp": "0" } } 
+]
